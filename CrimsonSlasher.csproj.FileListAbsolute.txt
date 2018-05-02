@@ -1,0 +1,10 @@
+C:\Users\timot\Documents\My Games\Terraria\ModLoader\Mod Sources\CrimsonSlasher\bin\Debug\CrimsonSlasher.dll
+C:\Users\timot\Documents\My Games\Terraria\ModLoader\Mod Sources\CrimsonSlasher\bin\Debug\CrimsonSlasher.pdb
+C:\Users\timot\Documents\My Games\Terraria\ModLoader\Mod Sources\CrimsonSlasher\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\timot\Documents\My Games\Terraria\ModLoader\Mod Sources\CrimsonSlasher\bin\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\timot\Documents\My Games\Terraria\ModLoader\Mod Sources\CrimsonSlasher\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\timot\Documents\My Games\Terraria\ModLoader\Mod Sources\CrimsonSlasher\bin\Debug\Microsoft.Xna.Framework.Xact.dll
+C:\Users\timot\Documents\My Games\Terraria\ModLoader\Mod Sources\CrimsonSlasher\bin\Debug\Terraria.exe
+C:\Users\timot\Documents\My Games\Terraria\ModLoader\Mod Sources\CrimsonSlasher\obj\Debug\CrimsonSlasher.csprojResolveAssemblyReference.cache
+C:\Users\timot\Documents\My Games\Terraria\ModLoader\Mod Sources\CrimsonSlasher\obj\Debug\CrimsonSlasher.dll
+C:\Users\timot\Documents\My Games\Terraria\ModLoader\Mod Sources\CrimsonSlasher\obj\Debug\CrimsonSlasher.pdb
